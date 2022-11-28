@@ -1,7 +1,9 @@
 name,imageUrl,area,profileUrl,office,tags,isLoggedUser,positionName,id,parentId,size
 Agustín Alcázar,https://pir.adventa.solutions/images/users/agustin.jpg,BIS,-,BIS,Director BIS,false,Director BIS,BIS-001,,
-Sandra,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female,BIS,-,BIS,"TAGS",false,IT Controller,BIS-002,BIS-001,
+Sandra,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,BIS,-,BIS,"TAGS",false,IT Controller,BIS-002,BIS-001,
 Vacante,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg,BIS,-,BIS,"TAGS",false,IT Engagement,BIS-003,BIS-001,
 Samuel Canales,https://pir.adventa.solutions/images/users/_MG_6401.jpg,BIS,-,BIS,"TAGS",false,Head Devops,BIS-004,BIS-001,
 Mauricio Contreras,https://pir.adventa.solutions/images/users/Mauricio.jpg,BIS,-,BIS,"TAGS",false,Infraestructura y Seguridad,BIS-005,BIS-001,
 Fernando Mejía,https://pir.adventa.solutions/images/users/FERNANDO-MEJIA.png,BIS,-,BIS,"TAGS",false,Data Science,BIS-006,BIS-001,
+Vacante,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,BIS,-,BIS,"TAGS",false,QA Manager,BIS-006,BIS-001,
+Areth Dominguez,https://pir.adventa.solutions/images/users/MicrosoftTeams-image-2.png,BIS,-,BIS,"TAGS",false,Ingeniería Software DC,BIS-006,BIS-001,
