@@ -1,0 +1,7 @@
+name,imageUrl,area,profileUrl,office,tags,isLoggedUser,positionName,id,parentId,size
+Agustín Alcázar,https://pir.adventa.solutions/images/users/agustin.jpg,BIS,-,BIS,Director BIS,false,Director BIS,BIS-001,,
+Davolio Nancy,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,BIS,-,BIS,"Ceo,tag1, tag2",false,CTO,BIS-002,BIS-001,
+Leverling Janet,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg,BIS,-,BIS,"Ceo,tag1, tag2",false,CTO,BIS-003,BIS-001,
+Leverling Janet,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg,BIS,-,BIS,"Ceo,tag1, tag2",false,CTO,BIS-004,BIS-001,
+Leverling Janet,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg,BIS,-,BIS,"Ceo,tag1, tag2",false,CTO,BIS-005,BIS-001,
+Leverling Janet,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg,BIS,-,BIS,"Ceo,tag1, tag2",false,CTO,BIS-006,BIS-001,
