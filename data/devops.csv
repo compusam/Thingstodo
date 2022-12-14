@@ -1,8 +1,6 @@
 name,imageUrl,area,profileUrl,office,tags,isLoggedUser,positionName,id,parentId,size
-Agustín Alcázar,https://pir.adventa.solutions/images/users/agustin.jpg,BIS,-,BIS,Director BIS,false,Director BIS,BIS-001,,
-
+Agustín Alcázar,https://pir.adventa.solutions/images/users/agustin.jpg,BIS,-,BIS,Director BIS,false,Director BIS,BIS-001,
 Samuel Canales,https://pir.adventa.solutions/images/users/_MG_6401.jpg,BIS,-,BIS,"TAGS",false,Head Devops,BIS-004,BIS-001,
-
 Vacante,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,BIS,-,BIS,"TAGS",false,Devops Engineer,BIS-009,BIS-004,
 Jaime Medina,https://pir.adventa.solutions/images/users/Jaime.jpg,BIS,-,BIS,"TAGS",false,Arquitecto,BIS-010,BIS-004,
 Víctor Colmenares,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,BIS,-,BIS,"TAGS",false,Soporte SysAdmin,BIS-011,BIS-004,
